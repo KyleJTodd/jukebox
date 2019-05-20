@@ -1,0 +1,27 @@
+.font-retro{
+  font-family: 'Monoton', cursive;
+  color: white
+  
+
+}
+.font-secondary{
+  color: white
+}
+
+.bckgrnd{
+  background: url(gradient-background-turquoise-purple-soft-color-vector-20841032.jpg);
+  background-size: contain;
+  height: 100vh;
+  
+
+}
+
+#songs{
+  background: url(gradientbckgrnd.jpg)
+
+}
+
+.card-background{
+  background: url(900_Rizwana-Khan_Blue\ Blurred\ Gradient\ Background.jpg);
+  color: white
+}
